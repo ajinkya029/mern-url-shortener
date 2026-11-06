@@ -85,7 +85,7 @@ mern-url-shortener/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-url-shortener.git
+git clone https://github.com/ajinkya029/mern-url-shortener.git
 cd mern-url-shortener
 ```
 
